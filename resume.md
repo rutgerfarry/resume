@@ -20,7 +20,7 @@ Authored iOS app to demonstrate ARM-based smart clothing developed at OSU. Imple
 
 ## Education
 **Bachelor of Science, Computer Science** \
-*September 2013 - June 2017 : 3.4 GPA* \
+*September 2013 - December 2017 (expected) : 3.4 GPA* \
 Courses: Algorithms, Data Structures, Databases, Digital Logic Design, Software Engineering.
 
 ## Papers
