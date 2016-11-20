@@ -4,7 +4,7 @@
 ## Experience
 **Cambia Health Solutions** \
 *Software Developer and Entrepreneurship Intern : June 2016 - September 2016* \
-Added features to and maintained Ruby on Rails web app designed to coach National Guard Reserves. Helped reduce page load times to ~ 40% previous through caching and minimizing asynchronous HTTP calls. Ruby on Rails, Javascript, SQL.
+Added features to and maintained Ruby on Rails web app designed to coach National Guard Reserves. Helped reduce page load times to ~ 40% previous through caching and minimizing HTTP calls. Ruby on Rails, Javascript, SQL.
 
 **Center for Applied Systems and Software** \
 *Software Engineer II : January 2016 - Current* \
