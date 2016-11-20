@@ -1,9 +1,5 @@
 # Rutger Farry
-## Developer / Designer
-
-> [rutgerfarry@gmail.com](mailto:rutgerfarry@gmail.com) \
-> [541-914-9936](tel:541-914-9936) \
-> [rutgerfarry.com](http://rutgerfarry.com)
+### [rutgerfarry@gmail.com](mailto:rutgerfarry@gmail.com) • [541-914-9936](tel:541-914-9936) • [rutgerfarry.com](http://rutgerfarry.com)
 
 ## Experience
 **Cambia Health Solutions** \
@@ -38,13 +34,14 @@ BSN 2015 – Cambridge, MA
 ## Extracurricular
 **OSU App Club** \
 *President : September 2014 - 2015, Vice-President : September 2015 - Current* \
+Held weekly meetings to tutor students in app development. Collaborated with other organizations and colleges to organize hackathons and tech talks. Created new positions to manage club affairs. Started fund for advertising, hackathons, etc.
+
+**Classmere - Personal Project** \
+*Web Design Project : April 2015 - Current* \
+Built open-source website and iOS app that suggests classes for students based on their friends, schedule, and other metrics. Node.js, Docker, Kubernetes, MongoDB, React.js.
 
 **Cycling Club** \
 *Race Director : September 2016 - Current* \
 
 **Leadership Academy** \
 *Member : February 2014 - Current*
-
-**Classmere - Personal Project** \
-*Web Design Project : April 2015 - Current* \
-Built open-source website and iOS app that suggests classes for students based on their friends, schedule, and other metrics. Node.js, Docker, Kubernetes, MongoDB, React.js.
