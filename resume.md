@@ -34,7 +34,7 @@ BSN 2015 – Cambridge, MA
 ## Extracurricular
 **Cycling Club** \
 *Race Director : September 2016 - Current* \
-Organized multi-day bike race with over 200 competitors and 12 competing universities. Worked with numerous governmental and private organizations to close roads, recruit volunteers, provide race infrastructure and more. As a racer, traveled over 4,500 miles in a span of six weekends to participate in races while maintaining grades.
+Organized multi-day bike race with over 200 competitors and 12 competing universities. Worked with numerous governmental and private organizations to close roads, recruit volunteers, provide race infrastructure and more. As a racer, traveled over 4,500 miles in a span of six weekends to participate in races while maintaining good grades.
 
 **App Club** \
 *President : September 2014 - 2015, Vice-President : September 2015 - Current* \
@@ -44,5 +44,6 @@ Held weekly meetings to tutor students in app development. Collaborated with oth
 *Web Design Project : April 2015 - Current* \
 Built open-source website and iOS app that suggests classes for students based on their friends, schedule, and other metrics. Node.js, Docker, Kubernetes, MongoDB, React.js.
 
-**Leadership Academy** \
-*Member : February 2014 - Current*
+**Engineering Leadership Academy** \
+*Member : February 2014 - Current* \
+Attended conferences and talks by professionals in various engineering fields. Connected with OSU alumni in engineering and management positions.
