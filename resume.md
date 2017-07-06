@@ -3,7 +3,7 @@
 
 ## Experience
 **Center for Applied Systems and Software** \
-*Software Engineer II : January 2016 - Current* \
+*Student Software Engineer II : January 2016 - Current* \
 Designed and led development for center's first iOS application. Also designed architecture for Java API providing Common Core assessment tests to over 7 million students. iOS, Java, C#, Apache Tomcat, Redis, AWS S3 & EC2.
 
 **Cambia Health Solutions** \
@@ -12,11 +12,11 @@ Added features to and maintained Ruby on Rails web app designed to coach Nationa
 
 **Jive Software** \
 *iOS Engineering Intern : June 2015 - September 2015* \
-Added search page and iPad support to iOS app used by hundreds of Fortune 500 companies to manage their support forums. Gained experience with testing and working on a geographically-distributed team. Swift, Core Data.
+Added search page and iPad support to iOS app used by hundreds of Fortune 500 companies to manage their support forums. Gained experience with testing and working on a geographically distributed team. Swift, Core Data.
 
 **Oregon State VLSI Research Group** \
-*Research Programmer : November 2014 - June 2015* \
-Authored iOS app to communicate with ARM-based smart clothing developed at OSU. Implemented iOS side of compression algorithm in C, increasing clothing battery life over 100x. Hired and trained student employees. Swift, Obj-C, Embedded C, Core Bluetooth.
+*Undergraduate Research Assistant : November 2014 - June 2015* \
+Authored iOS app to communicate with ARM-based smart clothing developed at OSU. Implemented iOS side of compression algorithm in C, increasing clothing battery life over 100x. Co-authored paper presented at MIT. Hired and trained student employees. Swift, Obj-C, Embedded C, Core Bluetooth.
 
 ## Education
 **Bachelor of Science, Computer Science** \
@@ -29,12 +29,16 @@ BSN 2015 – Cambridge, MA
 
 ## Skills
 **Software:** Xcode, Git, Linux, Docker, Sketch, Photoshop, MongoDB, Postgres, Visual Studio \
-**Languages and Frameworks:** Swift, Objective-C, Javascript, Typescript, C, HTML, CSS, Sass, Haskell, Ruby, Python, SQL, C#, .NET
+**Languages and Frameworks:** Swift, Objective-C, Javascript, OCaml, Typescript, C, HTML, CSS, Sass, Haskell, Ruby, Python, SQL, C#, .NET
 
-## Extracurricular
+## Extracurricular Activities and Awards
+**People's Choice Award – OSU Undergraduate Engineering Expo** \
+*2017* \
+Presented my senior project for the 2016-2017 school year, winning People's Choice at the 2017 Oregon State undergraduate engineering expo.
+
 **Cycling Club** \
 *Race Director : September 2016 - Current* \
-Organized multi-day bike race with over 200 competitors and 12 competing universities. Worked with numerous governmental and private organizations to close roads, recruit volunteers, provide race infrastructure and more. As a racer, traveled over 4,500 miles in a span of six weekends to participate in races while maintaining good grades.
+Organized multi-day bike race with over 200 competitors and 12 competing universities. Worked with numerous governmental and private organizations to close roads, recruit volunteers, provide race infrastructure and more. As a cycling club member, traveled over 4,500 miles in a span of six weekends to participate in races while working as a student developer and maintaining grades.
 
 **App Club** \
 *President : September 2014 - 2015, Vice-President : September 2015 - Current* \
