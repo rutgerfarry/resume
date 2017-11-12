@@ -4,7 +4,7 @@
 ## Experience
 **Center for Applied Systems and Software** \
 *Student Software Engineer II : January 2016 - Current* \
-Designed and led development for center's first iOS application. Also designed architecture for Java API providing Common Core assessment tests to over 7 million students. iOS, Java, C#, Apache Tomcat, Redis, AWS S3 & EC2.
+Built translation layer for research project creating fault-tolerant, self-provisioning, self-healing software deployments. Designed and led development for center's first iOS application. Designed architecture for Java API providing Common Core assessment tests to over 7 million students. Python, Haskell, iOS, Java, C#, Apache Tomcat, Amazon Web Services (AWS).
 
 **Cambia Health Solutions** \
 *Software Developer and Entrepreneurship Intern : June 2016 - September 2016* \
@@ -12,7 +12,7 @@ Added features to and maintained Ruby on Rails web app designed to coach Nationa
 
 **Jive Software** \
 *iOS Engineering Intern : June 2015 - September 2015* \
-Added search page and iPad support to iOS app used by hundreds of Fortune 500 companies to manage their support forums. Gained experience with testing and working on a geographically distributed team. Swift, Core Data.
+Added search page and iPad support to iOS app used by hundreds of Fortune 500 companies to manage their support forums. Gained experience with testing and working on a geographically distributed team. Swift, Core Data, Jira, HockeyApp.
 
 **Oregon State VLSI Research Group** \
 *Undergraduate Research Assistant : November 2014 - June 2015* \
@@ -46,7 +46,7 @@ Held weekly meetings to tutor students in app development. Collaborated with oth
 
 **Classmere - Personal Project** \
 *Web Design Project : April 2015 - Current* \
-Built open-source website and iOS app that suggests classes for students based on their friends, schedule, and other metrics. Node.js, Docker, Kubernetes, MongoDB, React.js.
+Built open-source website and iOS app that suggests classes for students based on their friends, schedule, and other metrics. Node.js, Docker, Kubernetes, MongoDB, Elm.
 
 **Engineering Leadership Academy** \
 *Member : February 2014 - Current* \
