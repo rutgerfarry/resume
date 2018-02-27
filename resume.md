@@ -8,27 +8,30 @@ Built translation layer for research project creating fault-tolerant,
 self-provisioning, self-healing software deployments. Designed and led
 development for center's first iOS application. Designed architecture for
 Java API providing Common Core assessment tests to over 7 million students.
-Python, Haskell, iOS, Java, C#, Apache Tomcat, Amazon Web Services (AWS).
+Python, Haskell, iOS, Java, C#, TypeScript, React.js, Apache Tomcat, Amazon Web Services (AWS).
 
 **Cambia Health Solutions** \
 *Software Developer and Entrepreneurship Intern : June 2016 - September 2016* \
 Added features to and maintained Ruby on Rails web app designed to coach
 National Guard Reserves. Helped reduce page load times by ~ 40% through
-caching and minimizing HTTP calls. Ruby on Rails, Javascript, SQL.
+caching and minimizing HTTP calls. 
+Ruby on Rails, Javascript, PostgreSQL.
 
 **Jive Software** \
 *iOS Engineering Intern : June 2015 - September 2015* \
 Added search page and iPad support to iOS app used by hundreds of Fortune 500
-companies to manage their support forums. Gained experience with testing and
-working on a geographically distributed team. Swift, Core Data, Jira,
-HockeyApp.
+companies to manage support forums. Gained experience with testing and
+working on a geographically distributed team. Presented 5-year business plan
+to over 50 employees watching in person and over live stream.
+Swift, Core Data, XCTest, Jira, HockeyApp.
 
 **Oregon State VLSI Research Group** \
 *Undergraduate Research Assistant : November 2014 - June 2015* \
 Authored iOS app to communicate with ARM-based smart clothing developed at
 OSU. Implemented iOS side of compression algorithm in C, increasing clothing
 battery life over 100x. Co-authored paper presented at MIT. Hired and trained
-student employees. Swift, Obj-C, Embedded C, Core Bluetooth.
+student employees. 
+Swift, Objective-C, Embedded C, Core Bluetooth.
 
 ## Education
 **Bachelor of Science, Computer Science** \
@@ -50,13 +53,13 @@ BSN 2015 – Cambridge, MA
 ## Extracurricular Activities and Awards
 **People's Choice Award – OSU Undergraduate Engineering Expo** \
 *2017* \
-Presented my senior project for the 2016-2017 school year, winning People's
+Presented senior project for the 2016-2017 school year, winning People's
 Choice at the 2017 Oregon State undergraduate engineering expo.
 
 **Cycling Club** \
 *Race Director : September 2016 - Current* \
 Organized multi-day bike race with over 200 competitors and 12 competing
-universities. Worked with city, county, police and university to close roads,
+universities. Worked with city, county, police, and university to close roads,
 recruit volunteers, provide race infrastructure and more. As a cycling club
 member, traveled over 4,500 miles in a span of six weekends to participate in
 races while working as a student developer and maintaining grades.
