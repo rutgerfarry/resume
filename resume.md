@@ -29,8 +29,8 @@ Swift, Core Data, XCTest, Jira, HockeyApp.
 *Undergraduate Research Assistant : November 2014 - June 2015* \
 Authored iOS app to communicate with ARM-based smart clothing developed at
 OSU. Implemented iOS side of compression algorithm in C, increasing clothing
-battery life over 100x. Co-authored paper presented at MIT. Hired and trained
-student employees. 
+battery life over 100x. Co-authored paper presented at MIT (see below). Hired
+and trained student employees.
 Swift, Objective-C, Embedded C, Core Bluetooth.
 
 ## Education
@@ -48,13 +48,14 @@ BSN 2015 – Cambridge, MA
 **Software:** Xcode, Git, Linux, Docker, Sketch, Photoshop, MongoDB, Postgres,
 *Visual Studio \
 **Languages and Frameworks:** Swift, Objective-C, Javascript, OCaml,
-*Typescript, C, HTML, CSS, Sass, Haskell, Ruby, Python, SQL, C#, .NET
+Typescript, C, HTML, CSS, Sass, Haskell, Ruby, Python, SQL, C#, .NET
 
 ## Extracurricular Activities and Awards
-**People's Choice Award – OSU Undergraduate Engineering Expo** \
-*2017* \
-Presented senior project for the 2016-2017 school year, winning People's
-Choice at the 2017 Oregon State undergraduate engineering expo.
+**Classmere - Personal Project** \
+*Full-stack web & mobile development project : April 2015 - Current* \
+Built open-source website and published iOS app that suggests classes for
+students based on their friends, schedule, and other metrics. Node.js, Swift,
+Docker, Kubernetes, MongoDB, Elm.
 
 **Cycling Club** \
 *Race Director : September 2016 - Current* \
@@ -71,11 +72,10 @@ other organizations and colleges to organize hackathons and tech talks.
 Created new positions to manage club affairs. Started fund for advertising,
 hackathons, etc.
 
-**Classmere - Personal Project** \
-*Web Design Project : April 2015 - Current* \
-Built open-source website and iOS app that suggests classes for students
-based on their friends, schedule, and other metrics. Node.js, Docker,
-Kubernetes, MongoDB, Elm.
+**People's Choice Award** \
+*OSU Undergraduate Engineering Expo : 2017* \
+Presented my team's senior project, an iOS app for gyms at the 2017 Oregon
+State undergraduate engineering expo, winning People's Choice Award.
 
 **Engineering Leadership Academy** \
 *Member : February 2014 - Current* \
