@@ -2,6 +2,16 @@
 ### [rutgerfarry@gmail.com](mailto:rutgerfarry@gmail.com) • [541-914-9936](tel:541-914-9936) • [rutgerfarry.com](http://rutgerfarry.com)
 
 ## Experience
+**iOS Software Engineer I** \
+*Nordstrom: April 2018 - Current* \
+Migrated authentication flow from legacy web system to new native experience.
+Leveraged Firebase A/B tests, allowing product managers to make informed
+business decisions. Refactored UI components to be reused throughout Nordstrom
+app. Collaborated with designers to quickly build an experimental app for the LA
+market to test new product ideas. Developed CI prototype to move test tasks off
+development machines and increase developer productivity. iOS, Firebase, New Relic,
+JIRA.
+
 **Student Software Engineer II** \
 *Center for Applied Systems and Software : January 2016 - December 2017* \
 Built translation layer for research project creating fault-tolerant,
@@ -15,21 +25,20 @@ iOS, Java, C#, TypeScript, React.js, Apache Tomcat, Amazon Web Services
 *Cambia Health Solutions : June 2016 - September 2016* \
 Added features to and maintained Ruby on Rails web app designed to coach
 National Guard Reserves. Helped reduce page load times by ~ 40% through
-caching and minimizing HTTP calls. 
+caching and minimizing HTTP calls.
 Ruby on Rails, Javascript, PostgreSQL.
 
 **iOS Engineering Intern** \
 *Jive Software : June 2015 - September 2015* \
 Added search page and iPad support to iOS app used by hundreds of Fortune 500
-companies to manage support forums. Gained experience with testing and
-working on a geographically distributed team. Presented 5-year business plan
-to over 50 employees watching in person and over live stream.
-Swift, Core Data, XCTest, Jira, HockeyApp.
+companies to manage support forums. Gained experience with testing and working
+on a geographically distributed team. Swift, Core Data, XCTest, Jira,
+HockeyApp.
 
 **Undergraduate Research Assistant** \
 *Oregon State VLSI Research Group : November 2014 - June 2015* \
 Authored iOS app to communicate with ARM-based smart clothing developed at
-OSU. Implemented iOS side of compression algorithm in C, increasing clothing
+OSU. Implemented iOS decompression algorithm in C, increasing clothing
 battery life over 100x. Co-authored paper presented at MIT (see below). Hired
 and trained student employees.
 Swift, Objective-C, Embedded C, Core Bluetooth.
@@ -41,15 +50,15 @@ Courses: Algorithms, Artifical Intelligence, Operating Systems, Compilers,
 Networking, Data Structures, Databases, Digital Logic Design, Software
 Engineering.
 
+## Skills
+**Software:** Xcode, Git, Linux, Docker, Sketch, MongoDB, Postgres, Visual
+Studio \
+**Languages:** Swift, Javascript, Typescript, Objective-C, Python, C, Ruby,
+SQL, Haskell, C#
+
 ## Papers
 **Rate-Adaptive Compressed-Sensing and Sparsity Variance of Biomedical Signals** \
 BSN 2015 – Cambridge, MA
-
-## Skills
-**Software:** Xcode, Git, Linux, Docker, Sketch, Photoshop, MongoDB, Postgres,
-Visual Studio \
-**Languages and Frameworks:** Swift, Javascript, Typescript, Objective-C,
-Python, C, HTML, CSS, Sass, SQL, Haskell, OCaml, Ruby, C#, .NET
 
 ## Extracurricular Activities and Awards
 **Classmere - Personal Project** \
